@@ -9,6 +9,7 @@ packages = [{include = "popos_utils"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 python-xlib = "^0.33"
+pynput = "^1.7.6"
 
 
 [tool.poetry.group.dev.dependencies]
