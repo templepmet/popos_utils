@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd $HOME/.local/popos_utils
+poetry run python src/volumewheel.py
