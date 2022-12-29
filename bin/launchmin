@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python $HOME/.local/popos_utils/src/launch_minimize.py $1
